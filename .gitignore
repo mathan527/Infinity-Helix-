@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment Variables (CRITICAL - NEVER COMMIT)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Database
+*.db
+*.sqlite3
+*.sql
+postgresql_data/
+
+# Uploads and User Data
+uploads/*
+!uploads/.gitkeep
+pathway_memory/patient_docs/*
+pathway_memory/knowledge_docs/*
+!pathway_memory/patient_docs/.gitkeep
+!pathway_memory/knowledge_docs/.gitkeep
+
+# Models (too large for GitHub)
+models/*.pkl
+models/*.pth
+models/*.h5
+models/*.joblib
+anomaly_detector.pkl
+feature_scaler.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
