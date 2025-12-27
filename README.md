@@ -699,7 +699,7 @@ MIT License - Built with ❤️ for healthcare innovation
 
 [🚀 Live Demo](#) • [📖 Docs](#documentation) • [💻 Code](#repository-highlights)
 
-**Team**: [Your Team Name]  
+**Team**: Zenera  
 **Track**: 1 - Agentic AI (Applied GenAI)  
 **Hackathon**: Synaptix Frontier AI Hack @ IIT Madras Shaastra 2026
 
@@ -712,3 +712,4 @@ MIT License - Built with ❤️ for healthcare innovation
 > **"We built a production-ready medical AI agent that remembers patient history, reasons temporally, and adapts in real-time using Pathway's streaming engine - transforming reactive diagnosis into proactive healthcare."**
 
 **Judges: This is not a chatbot. This is the future of medical AI. Let's build it together.**
+
